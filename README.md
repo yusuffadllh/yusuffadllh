@@ -72,7 +72,6 @@
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
 </p>
 
 ---
@@ -90,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Yusuf's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=yusuffadllh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuffadllh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=yusuffadllh&theme=tokyonight&hide_border=true">
-</p>
 
 ## 🐍 Watch the snake eat my contributions
 
