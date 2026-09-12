@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf Fadilah</h1>
+<h1 align="center">Hi , I'm Yusuf Fadilah</h1>
 
 <p align="center">
   Computer Engineering student · Surabaya, Indonesia 🇮🇩<br>
@@ -13,16 +13,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Studying **Computer Engineering at ITS** class of 2024.
-- ⚡ What got me into this: that moment code stops being text on a screen and actually *does* something an app running on my phone, a board that blinks back at me.
-- 🔌 Computer Engineering means I get to poke at both sides the software *and* the hardware it runs on. Embedded, sensors, networks: all fair game.
-- 📫 Say hi on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/) down to chat about internships, collabs, or random side projects.
+-  Studying **Computer Engineering at ITS** class of 2024.
+-  What got me into this: that moment code stops being text on a screen and actually *does* something an app running on my phone, a board that blinks back at me.
+-  Computer Engineering means I get to poke at both sides the software *and* the hardware it runs on. Embedded, sensors, networks: all fair game.
+-  Say hi on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/) down to chat about internships, collabs, or random side projects.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -86,9 +86,6 @@
 | **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Automation script for redeeming codes without the manual clicking. | JavaScript |
 
 ---
-
-
-## 🐍 Watch the snake eat my contributions
 
 <p align="center">
   <picture>
