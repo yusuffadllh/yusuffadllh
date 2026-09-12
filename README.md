@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm Yusuf Fadilah</h1>
+<h1 align="center">Hi, I'm Yusuf Fadilah</h1>
 
 <p align="center">
-  Computer Engineering student · Surabaya, Indonesia 🇮🇩<br>
-  I like building things mobile apps, web apps, and whatever else looks fun to try.
+  Computer Engineering student · AI Engineer · Surabaya, Indonesia<br>
+  I build apps, test ideas, and ship projects that solve small real problems.
 </p>
 
 <p align="center">
@@ -15,13 +15,17 @@
 
 ## About Me
 
--  Studying **Computer Engineering at ITS** class of 2024.
--  Computer Engineering means I get to poke at both sides the software *and* the hardware it runs on. Embedded, sensors, networks: all fair game.
--  Say hi on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/) down to chat about internships, collabs, or random side projects.
+- Studying **Computer Engineering at ITS**, class of 2024.
+- Focused on building as an AI Engineer, especially for practical automation and product features.
+- I enjoy building practical tools: from Android apps to web dashboards and automation scripts.
+- I like working across software and hardware, especially when a project involves embedded systems, sensors, or networking.
+- I learn best by building; if I need a new stack, I pick it up while shipping the project.
+- Most of my projects start from a simple question: *"can this be made easier?"*
+- Open to internships and collaborations, connect on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/).
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -73,17 +77,21 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[CPRecap](https://github.com/yusuffadllh/CPRecap)** | Personal finance app that reads bank notifications & Gmail receipts, then drafts transactions with AI. Offline-first, encrypted database. | Kotlin · Jetpack Compose · Room + SQLCipher · Hilt · Firebase |
-| **[CPAgents](https://github.com/yusuffadllh/CPAgents)** | Autonomous AI agent web app: Planner → Executor → Reviewer loop that really creates files, runs commands, and self-deploys the result. | Next.js 14 · Prisma · SQLite · SSE |
-| **[CPChatRemind](https://github.com/yusuffadllh/CPChatRemind)** | Turns casual chat messages into real calendar events via an LLM + CalDAV, so reminders show up in the phone's native calendar. | TypeScript · Node.js · CalDAV · Docker |
-| **[GrabMakan](https://github.com/yusuffadllh/grabmakan_review)** | Food ordering platform with live order tracking and a 3-in-1 review system (restaurant, courier, per-menu). | React 19 · TypeScript · Tailwind CSS 4 · Express · MySQL |
-| **[Tkinter Graph Pathfinding](https://github.com/yusuffadllh/Tkinter-Graph-Pathfinding)** | Interactive visualizer for graph pathfinding algorithms. | Python · Tkinter |
-| **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Automation script for redeeming codes without the manual clicking. | JavaScript |
+| **[CPRecap](https://github.com/yusuffadllh/CPRecap)** | Android finance app that parses transaction notifications and email receipts into draft records. Built with local-first storage and encrypted DB. | Kotlin · Jetpack Compose · Room + SQLCipher · Hilt · Firebase |
+| **[CPAgents](https://github.com/yusuffadllh/CPAgents)** | Agent-based web app with Planner → Executor → Reviewer flow that can generate files, execute commands, and iterate on outputs. | Next.js 14 · Prisma · SQLite · SSE |
+| **[CPChatRemind](https://github.com/yusuffadllh/CPChatRemind)** | Chat-to-calendar pipeline: message parsing + event extraction + CalDAV sync to native phone calendar. | TypeScript · Node.js · CalDAV · Docker |
+| **[GrabMakan](https://github.com/yusuffadllh/grabmakan_review)** | Food ordering app with realtime order status and multi-level review features (restaurant, courier, and menu item). | React 19 · TypeScript · Tailwind CSS 4 · Express · MySQL |
+| **[Tkinter Graph Pathfinding](https://github.com/yusuffadllh/Tkinter-Graph-Pathfinding)** | Desktop visualization tool for testing and comparing graph pathfinding algorithms interactively. | Python · Tkinter |
+| **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Lightweight script to automate repetitive voucher/code redeem steps. | JavaScript |
 
+---
+
+
+## Watch the snake eat my contributions
 
 <p align="center">
   <picture>
