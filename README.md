@@ -19,8 +19,6 @@
 - Focused on building as an AI Engineer, especially for practical automation and product features.
 - I enjoy building practical tools: from Android apps to web dashboards and automation scripts.
 - I like working across software and hardware, especially when a project involves embedded systems, sensors, or networking.
-- I learn best by building; if I need a new stack, I pick it up while shipping the project.
-- Most of my projects start from a simple question: *"can this be made easier?"*
 - Open to internships and collaborations, connect on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/).
 
 ---
@@ -87,11 +85,6 @@
 | **[GrabMakan](https://github.com/yusuffadllh/grabmakan_review)** | Food ordering app with realtime order status and multi-level review features (restaurant, courier, and menu item). | React 19 · TypeScript · Tailwind CSS 4 · Express · MySQL |
 | **[Tkinter Graph Pathfinding](https://github.com/yusuffadllh/Tkinter-Graph-Pathfinding)** | Desktop visualization tool for testing and comparing graph pathfinding algorithms interactively. | Python · Tkinter |
 | **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Lightweight script to automate repetitive voucher/code redeem steps. | JavaScript |
-
----
-
-
-## Watch the snake eat my contributions
 
 <p align="center">
   <picture>
