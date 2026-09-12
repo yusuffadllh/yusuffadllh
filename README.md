@@ -84,7 +84,6 @@
 | **[Tkinter Graph Pathfinding](https://github.com/yusuffadllh/Tkinter-Graph-Pathfinding)** | Interactive visualizer for graph pathfinding algorithms. | Python · Tkinter |
 | **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Automation script for redeeming codes without the manual clicking. | JavaScript |
 
----
 
 <p align="center">
   <picture>
