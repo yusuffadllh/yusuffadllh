@@ -16,7 +16,6 @@
 ## About Me
 
 -  Studying **Computer Engineering at ITS** class of 2024.
--  What got me into this: that moment code stops being text on a screen and actually *does* something an app running on my phone, a board that blinks back at me.
 -  Computer Engineering means I get to poke at both sides the software *and* the hardware it runs on. Embedded, sensors, networks: all fair game.
 -  Say hi on [LinkedIn](https://www.linkedin.com/in/yusuf-fadllh/) down to chat about internships, collabs, or random side projects.
 
