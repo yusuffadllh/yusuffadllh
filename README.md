@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering student · Surabaya, Indonesia 🇮🇩<br>
-  I like building things — mobile apps, web apps, and whatever else looks fun to try.
+  I like building things mobile apps, web apps, and whatever else looks fun to try.
 </p>
 
 <p align="center">
