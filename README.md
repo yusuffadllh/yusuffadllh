@@ -85,6 +85,7 @@
 | **[GrabMakan](https://github.com/yusuffadllh/grabmakan_review)** | Food ordering app with realtime order status and multi-level review features (restaurant, courier, and menu item). | React 19 · TypeScript · Tailwind CSS 4 · Express · MySQL |
 | **[Tkinter Graph Pathfinding](https://github.com/yusuffadllh/Tkinter-Graph-Pathfinding)** | Desktop visualization tool for testing and comparing graph pathfinding algorithms interactively. | Python · Tkinter |
 | **[AutoRedeem-RF](https://github.com/yusuffadllh/AutoRedeem-RF)** | Lightweight script to automate repetitive voucher/code redeem steps. | JavaScript |
+| **[PCV-MINI-GAME-BASED-ON-HAND-COLOR](https://github.com/yusuffadllh/PCV-MINI-GAME-BASED-ON-HAND-COLOR)** | Mini game berbasis computer vision yang mendeteksi warna tangan sebagai input kontrol permainan. | Python · OpenCV |
 
 <p align="center">
   <picture>
